@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KairuKuroiSE
 - 🎂 I am 21 years old
 - 💡 I’m interested in software development and AI
-- ❔ I’m currently learning Python & C++
+- ❔ I’m currently learning CSS, HTML, Javascript and MongoDB
 - ✔️  I’m looking to collaborate on mini projects
 
 <!---
