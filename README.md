@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @KairuKuroiSE
-- 🎂 I am 21 years old
-- 💡 I’m interested in software development and AI
-- ❔ I’m currently learning CSS, HTML, Javascript and MongoDB
-- ✔️  I’m looking to collaborate on mini projects
+👋 **@KairuKuroiSE** | 21 | Software Developer & Web developer Enthusiast
+
+Actively learning: **CSS**, **HTML**, **JavaScript**, **MongoDB**, **Python**
 
 <!---
 KairuKuroiSE/KairuKuroiSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
