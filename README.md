@@ -1,4 +1,4 @@
-👋 **@KairuKuroiSE** | 21 | Software Developer & Web developer Enthusiast
+👋 **@KairuKuroiSE** | 22 | Software Developer & Web developer Enthusiast
 
 Actively learning: **CSS**, **HTML**, **JavaScript**, **MongoDB**, **Python**
 
